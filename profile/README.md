@@ -1,7 +1,7 @@
 ## Private Instagram Viewer Application That Works 👋
 Instagram is probably one of the most used social networking sites in the world, and over a billion users upload their pictures, videos, and stories every single day. Out of these billion people, many of them resort to keeping their accounts private as a protective measure from the unwanted eyes of random viewers. Along this line, increasing interest has been accorded to those utilities and apps that purport to offer insight into how to view private Instagram profiles without a user having to follow the individual necessarily. Most are referred to in familiar terms as private Instagram viewer applications.
 
-You can use this tool: https://privateinstaviewer.com
+You can use this tool: https://sqirk.com
 
 In this article, we shall consider what these tools claim they can do, the **risks** in using such tools, and whether it is legally or ethically right to use such applications. We will equally share some tips on how you can **protect your Instagram account** from possible privacy violations.
 
